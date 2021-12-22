@@ -1,5 +1,7 @@
-# DaoHaus 1.0
-DaoHaus on smartbch,fork from Moloch v2 and developing smartbch version.
+# DaoCash 1.0
+DaoHaus on smartbch, developing smartbch version.
+
+Ref Moloch Project.
 
 Daohaus on smartbch with multi-summoner capabilities, plus register function for metadata. Summoner uses EIP-1167 proxy pattern to decrease gas costs significantly w/r.
 
