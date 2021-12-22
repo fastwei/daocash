@@ -1,2 +1,2 @@
 # daocash
-the DAO solidity on smartBCH
+the DAO on smartBCH
